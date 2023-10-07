@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Starry Night</title>
+    </head>
+
+    <body>
+        <h1 style = "color: white; font-size: 25px;text-align:center;"> Starry Night</h1>
+        .myDiv{
+          border: 5px outset white;
+   
+         <p style="color:blue;text-align:center"> The Starry Night is one of the most famous paintings in the history of western culture. It was painted by Vincent Van Gogh in 1889 and is recognized as his finest work. This artwork is oil on canvas and is currently in the Museum of Modern Art, New York. An interesting fact about the artwork is that it is painted from Van Gogh’s memory, unlike his other works which are painted outdoor. This painting is the view from the east-facing window of his asylum room at Saint-Reme-de-Provence. The view includes the starry sky, cypress tree, village, and hills. “This morning I saw the countryside from my window a long time before sunrise, with nothing but the morning star, which looked very big. “wrote Van Gogh. 
+</p>
+    <body bgcolor="black">
+    
+<img src ="SANBXBY.jpg" class="center">
+
+         <p style="color:blue;text-align:center"> 
+The first thing I notice in The Starry Night is the sky in the background because it stands out the most. There are many shining stars, the big bright crescent moon and wind swirls painted throughout the blue sky using contrasting colours like orange, yellow and white. Through the swirling wind, thick curve lines are flowing across the sky to form this spiral-like formation. Eleven yellow stars which look like huge fireballs lighten the whole art piece by contrasting with the cool blue, dark night sky that contains a variety of shades of blue and grey. There is also the crescent moon at the top right-hand corner that is bigger and emits an even brighter light compared to the rest of the stars. Next, I notice the giant cypress tree on the left side because of how its proportion is a lot bigger than everything else in the rest of the painting.  It blocks out part of the sky and the village located at the bottom. The village houses are tiny and painted in the shade. It is compact and is close to the hills and its surrounding objects which makes the houses blend in and become unnoticeable. </p>
+<style>
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+</style>
+</head>
+<body>
+  
+        <h2 style = "color: white; font-size: 25px;text-align:center;"> The Productive decade of Vincent van Gogh</h2>
+        
+         <p style="color:blue;text-align:center"> His artistic career was extremely short, lasting only the 10 years from 1880 to 1890. During the first four years of this period, while acquiring technical proficiency, he confined himself almost entirely to drawings and watercolours. First, he went to study drawing at the Brussels Academy; in 1881 he moved to his father’s parsonage at Etten, Netherlands, and began to work from nature.</p>
+<font color="white">
+<table border="2" width="300" height="150">
+<tr>
+    <th>Paintings</th>
+    <th>Year</th>
+    </tr>
+<tr>
+   <td> Potato Eaters </td>
+   <td> 1885 </td>
+    </tr>
+<tr>
+   <td> Almond Blossoms </td>
+   <td> 1890 </td>
+   </tr>
+<tr>
+   <td> Cafe Terrace at Night </td>
+   <td> 1981 </td>
+   </tr>
+<tr>
+  <td> Wheatfield with Cows </td>
+  <td> 1980 </td>
+  </tr>
+<tr>
+  <td> Irises </td>
+  <td> 1980 </td>
+  </tr>
+<tr>
+  <td> The Night Cafe </td>
+  <td> 1988 </td>
+</tr>
+</table>
+</font>
+<p style="color:white"> For any further details on Vincent Van Gogh click on the below link. </p>
+<a href="https://www.britannica.com/biography/Vincent-van-Gogh/The-productive-decade">link text</a>
+
+
+</html>
